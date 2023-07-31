@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56b3d46f-4345-43b6-a3dc-43a634eb1675" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/CoursersManagementRestServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/controllers/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/controllers/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/entity/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/entity/RegistrationDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/exception/InvalidIDException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/exception/NullValueExcception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/exception/NullValueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/exception/ResourseNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/payloads/ApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/payloads/CourseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/payloads/RegistrationDetailsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/payloads/StudentDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/repository/CourseRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/repository/RegistrationRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/repository/StudentRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/services/CourseRegistrationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/services/CourseRegistrationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/services/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/services/CourseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/services/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/services/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kfh/coursers/Management/Rest/Service/api/util/MappingUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kfh/coursers/Management/Rest/Service/CoursersManagementRestServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TIB4BfRTjQEneq0sF380K9t8MZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hP.DESKTOP-TVMO4PB\Downloads\coursers Management Rest Service\coursers-Management-Rest-Service\src\main\java\com\kfh\coursers\Management\Rest\Service\api" />
+      <recent name="C:\Users\hP.DESKTOP-TVMO4PB\Downloads\coursers Management Rest Service\coursers-Management-Rest-Service\src\main\java\com\kfh\coursers\Management\Rest\Service\api\services" />
+      <recent name="C:\Users\hP.DESKTOP-TVMO4PB\Downloads\coursers Management Rest Service\coursers-Management-Rest-Service\src\main\java\com\kfh\coursers\Management\Rest\Service\api\repository" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kfh.coursers.Management.Rest.Service.api.controllers" />
+      <recent name="com.kfh.coursers.Management.Rest.Service.api.services" />
+      <recent name="com.kfh.coursers.Management.Rest.Service.api.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CoursersManagementRestServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coursers-Management-Rest-Service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kfh.coursers.Management.Rest.Service.CoursersManagementRestServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56b3d46f-4345-43b6-a3dc-43a634eb1675" name="Changes" comment="" />
+      <created>1690720522860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690720522860</updated>
+      <workItem from="1690774561084" duration="416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
